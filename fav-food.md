@@ -7,7 +7,7 @@ At some point I went on a deep dive to find out how to make the best possible pi
 
 Despite popular lore, it is __not__ about the water:
 
->I've heard it said that NY has the best pizza because of the water. This is a myth. Get over it. It's not the water. The water is one of a hundred factors. I filter my whole house with a huge 5 stage system, so I use that. If I didn't have that I'd spring for a $1 bottle of Dasani. That will do it too.
+>I've heard it said that NY has the best pizza because of the water. This is a myth. Get over it. It's not the water. The water is one of a hundred factors. I filter my water, so I use that. If I didn't have that I'd spring for a $1 bottle of Dasani. That will do it too.
 >
 
 I will expand on these pizza thoughts in further blog posts.
